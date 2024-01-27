@@ -14,7 +14,7 @@ Libs : Swing
 
 Auteurs :
 - Thomas HODSON : [Github](https://github.com/Hodson-Thomas)
-- Othman Bencheriff : [Github](https://github.com/Namth0)
+- Othman Bencherif : [Github](https://github.com/Namth0)
 
 Published : JAN - 08 - 2024
 
